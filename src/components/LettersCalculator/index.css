@@ -1,0 +1,56 @@
+.bg-container {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.left {
+  width: 45%;
+  padding: 20px;
+}
+
+.heading {
+  color: #e4e7eb;
+  font-family: roboto;
+  font-size: xx-large;
+}
+
+.para {
+  color: #e4e7eb;
+  font-family: roboto;
+  font-size: 10px;
+}
+
+.input {
+  color: #ffffff;
+  background-color: transparent;
+  border: 1px solid #e4e7eb;
+  outline: none;
+  height: 30px;
+  width: 80%;
+  font-family: roboto;
+}
+
+.count {
+  background-color: #ffffff;
+  color: #1d976c;
+  width: 30%;
+  font-size: x-large;
+  font-family: roboto;
+  border-radius: 7px;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.right {
+  width: 45%;
+}
+.image {
+  width: 80%;
+}
